@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Amaranth:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+table{
+    border: solid black 1px;
+    width: 100%;
+    height: 100vh;
+    font-family:  "Amaranth", sans-serif;
+    background-color: rgb(32, 30, 30);
+    background-image: url(fundo.png);
+    background-repeat:no-repeat;
+    background-size: 4000px;
+}
+.bglh{
+    background-color: black;
+}
+    .quadrado{
+    width: 1%;
+    height: 1vh;
+}
+
+    .PRODUTOS{
+        text-align: center;
+        width: 20%;
+        height: 1vh;
+        color: rgb(255, 255, 255);   
+}
+
+    .somos{
+        text-align: center;
+        width: 20%;
+        height: 1vh;
+        color: rgb(255, 255, 255);
+}
+
+.contato{
+    text-align: center;
+    width: 20%;
+    height: 1vh;
+    color: rgb(255, 255, 255);
+}
+
+body{margin: 0%;
+}
+
+.tx{
+    font-size: 75px;
+    text-align:left;
+    width: 5%;
+    height: 30vh;
+    color: rgb(255, 255, 255);
+}
+.tx2{
+    font-size: 22px;
+    text-align: left;
+    width: 5%;
+    height: 25vh;
+    color: white;
+}
+.Imagem{
+    width: 40%;
+}
+.coiso{
+    background-color: black;
+    height: 10vh;
+}
+.t5{
+    color: white;
+    text-decoration: none;
+}
